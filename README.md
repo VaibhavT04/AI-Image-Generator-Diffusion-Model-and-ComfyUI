@@ -6,7 +6,7 @@ This project explores AI-generated images using Stable Diffusion and ComfyUI. Th
 
 ## 🖼️ Generated Images
 
-The repository contains AI-generated images created using Stable Diffusion. Some examples include:
+The repository contains AI-generated images created using Stable Diffusion. Some examples:
 
 Ancient Indian Temple in a Forest
 
